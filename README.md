@@ -1,6 +1,13 @@
-#Multi-thread
-##1. DeadLock
-##2. Thread ´Ü¸é
-pidÈ®ÀÎ : jps
-¾²·¹µå ´Ü¸é ÀÚ¸£±â : jstack pid
+# gintire blog post
+
+
+## Multi-thread
+### > 1. DeadLock
+### > 2. Thread ë‹¨ë©´
+> pidí™•ì¸ : jps
+> ì“°ë ˆë“œ ë‹¨ë©´ ìžë¥´ê¸° : jstack pid
+~~~
 $jstack pid > output.txt
+~~~
+
+## code efficient
